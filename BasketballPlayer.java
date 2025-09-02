@@ -1,7 +1,7 @@
 package prob1;
 
 /**
- * Represents a baskeball player :jay
+ * Represents a baskeball playerZZZ
  *
  */
 public class BasketballPlayer {
